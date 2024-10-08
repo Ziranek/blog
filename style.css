@@ -1,7 +1,7 @@
 .navbar{
-    height: 400px;
-    width: 500px;
-    position:side;
+    height: 400;
+    width: 500;
+    position:fixed;
     z-index: 1;
     top: 0;
     left: 0;
