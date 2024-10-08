@@ -1,8 +1,7 @@
 .navbar{
     height: 400px;
-    width: 500px
-    px;
-    position:fixed;
+    width: 500px;
+    position:side;
     z-index: 1;
     top: 0;
     left: 0;
